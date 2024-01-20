@@ -8,11 +8,11 @@ _✨ 基于 [机器人开放平台API](https://bot.q.qq.com/wiki/develop/api/) �
 
 _✨ 为开发者提供一个易使用、开发效率高的开发框架 ✨_
 
-[文档](https://bot.q.qq.com/wiki/develop/pythonsdk/)
+[官方文档](https://bot.q.qq.com/wiki/develop/pythonsdk/)
 ·
-[下载](https://github.com/tencent-connect/botpy/tags)
+[阿斯巴迪机器人频道](https://pd.qq.com/s/hgrekb2ag)
 ·
-[安装](https://bot.q.qq.com/wiki/develop/pythonsdk/#sdk-安装)
+[机器人后台](https://q.qq.com)
 
 </div>
 
