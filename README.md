@@ -1,4 +1,4 @@
-![botpy](https://asbd.love/img/svg.svg)
+![botpy](http://asbd.love/img/svg.svg)
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 
