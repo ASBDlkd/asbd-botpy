@@ -256,7 +256,6 @@ class MyClient(botpy.Client):
                     {
                         "name": "当前指令有："
                     },
-                    },
                     {
                         "name": "巴迪正在努力迭代更新中……"
                     }
