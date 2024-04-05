@@ -1,6 +1,0 @@
-qq-botpy
-pandas
-requests
-Pillow
-pyyaml
-lunardate
