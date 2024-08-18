@@ -1,4 +1,4 @@
-![botpy](http://asbd.love/img/svg.svg)
+![botpy](http://botpy.top/img/svg.svg)
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 
@@ -10,7 +10,7 @@ _✨ 为开发者提供一个易使用、开发效率高的开发框架 ✨_
 ·
 [阿斯巴迪机器人频道](https://pd.qq.com/s/hgrekb2ag)
 ·
-[阿斯巴迪机器人Q群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=2k4eE4RQ_xYItnt6xKnEszE4f8gbJfyI&authKey=g9egzx5ymITrYIOQ8pPxjN4QEaa%2BZSHd2x7IkKU7aoE7IBshSfJ2rejFWLiEDL%2Bm&noverify=0&group_code=942798562)
+[阿斯巴迪机器人Q群](https://qm.qq.com/q/dngoi7RTGM)
 ·
 [QQ开放平台](https://q.qq.com)
 
